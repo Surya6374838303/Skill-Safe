@@ -1,0 +1,15 @@
+{
+  "device_id": "SS-HANDHELD-ESP32-02",
+  "worker_id": "w-102",
+  "timestamp": "2026-10-12T11:47:30.142Z",
+  "gas_reading": 138.9,
+  "gas_unit": "ppm CH4 eq.",
+  "vibration_reading": 1.28,
+  "temperature": 32.8,
+  "humidity": 43.1,
+  "section_id": "P4",
+  "distance_cm": 245.0,
+  "battery_percent": 42,
+  "connectivity_status": "online",
+  "alert_level": "critical"
+}
